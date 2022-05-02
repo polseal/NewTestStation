@@ -1,0 +1,181 @@
+[main] INFO  - The car 0 arrived at 0 sek, as 1 in the queue with 1 people [teststation.Arriving][0]
+[main] INFO  - The car 1 arrived at 88 sek, as 2 in the queue with 1 people [teststation.Arriving][0, 1]
+[main] INFO  - The car 2 arrived at 138 sek, as 3 in the queue with 4 people [teststation.Arriving][0, 1, 2]
+[main] INFO  - The car 0 came to test at 105 sek with 1 people [teststation.Testing]
+[main] INFO  - The car 3 arrived at 237 sek, as 4 in the queue with 2 people [teststation.Arriving][0, 1, 2, 3]
+[main] INFO  - The car 4 arrived at 273 sek, as 5 in the queue with 3 people [teststation.Arriving][0, 1, 2, 3, 4]
+[main] INFO  - The car 1 came to test at 193 sek with 1 people [teststation.Testing]
+[main] INFO  - The car 5 arrived at 310 sek, as 6 in the queue with 2 people [teststation.Arriving][0, 1, 2, 3, 4, 5]
+[main] INFO  - The car 6 arrived at 414 sek, as 7 in the queue with 2 people [teststation.Arriving][0, 1, 2, 3, 4, 5, 6]
+[main] INFO  - The car 2 came to test at 243 sek with 4 people [teststation.Testing]
+[main] INFO  - The car 7 arrived at 478 sek, as 8 in the queue with 1 people [teststation.Arriving][0, 1, 2, 3, 4, 5, 6, 7]
+[main] INFO  - The car 8 arrived at 522 sek, as 9 in the queue with 1 people [teststation.Arriving][0, 1, 2, 3, 4, 5, 6, 7, 8]
+[main] INFO  - The car 9 arrived at 559 sek, as 10 in the queue with 3 people [teststation.Arriving][0, 1, 2, 3, 4, 5, 6, 7, 8, 9]
+[main] INFO  - The car 3 came to test at 342 sek with 2 people [teststation.Testing]
+[main] INFO  - The car 10 with 3 people came and goes
+[main] INFO  - The car 0 is leaving test station at 345 sek, with 1 people [teststation.Leaving]
+[main] INFO  - The car 11 with 4 people came and goes
+[main] INFO  - The car 4 came to test at 378 sek with 3 people [teststation.Testing]
+[main] INFO  - The car 12 arrived at 776 sek, as 10 in the queue with 2 people [teststation.Arriving][1, 2, 3, 4, 5, 6, 7, 8, 9, 12]
+[main] INFO  - The car 13 with 2 people came and goes
+[main] INFO  - The car 5 came to test at 415 sek with 2 people [teststation.Testing]
+[main] INFO  - The car 14 with 4 people came and goes
+[main] INFO  - The car 1 is leaving test station at 433 sek, with 1 people [teststation.Leaving]
+[main] INFO  - The car 15 with 2 people came and goes
+[main] INFO  - The car 16 arrived at 1046 sek, as 10 in the queue with 1 people [teststation.Arriving][2, 3, 4, 5, 6, 7, 8, 9, 12, 16]
+[main] INFO  - The car 6 came to test at 519 sek with 2 people [teststation.Testing]
+[main] INFO  - The car 17 with 1 people came and goes
+[main] INFO  - The car 18 with 1 people came and goes
+[main] INFO  - The car 19 with 3 people came and goes
+[main] INFO  - The car 7 came to test at 583 sek with 1 people [teststation.Testing]
+[main] INFO  - The car 20 with 1 people came and goes
+[main] INFO  - The car 8 came to test at 627 sek with 1 people [teststation.Testing]
+[main] INFO  - The car 21 with 4 people came and goes
+[main] INFO  - The car 9 came to test at 664 sek with 3 people [teststation.Testing]
+[main] INFO  - The car 22 with 4 people came and goes
+[main] INFO  - The car 23 with 2 people came and goes
+[main] INFO  - The car 3 is leaving test station at 822 sek, with 2 people [teststation.Leaving]
+[main] INFO  - The car 24 with 3 people came and goes
+[main] INFO  - The car 7 is leaving test station at 823 sek, with 1 people [teststation.Leaving]
+[main] INFO  - The car 25 arrived at 1559 sek, as 10 in the queue with 3 people [teststation.Arriving][2, 4, 5, 6, 7, 8, 9, 12, 16, 25]
+[main] INFO  - The car 8 is leaving test station at 867 sek, with 1 people [teststation.Leaving]
+[main] INFO  - The car 26 arrived at 1678 sek, as 10 in the queue with 1 people [teststation.Arriving][2, 4, 5, 6, 8, 9, 12, 16, 25, 26]
+[main] INFO  - The car 12 came to test at 881 sek with 2 people [teststation.Testing]
+[main] INFO  - The car 27 arrived at 1736 sek, as 10 in the queue with 4 people [teststation.Arriving][2, 4, 5, 6, 9, 12, 16, 25, 26, 27]
+[main] INFO  - The car 5 is leaving test station at 895 sek, with 2 people [teststation.Leaving]
+[main] INFO  - The car 28 with 3 people came and goes
+[main] INFO  - The car 6 is leaving test station at 999 sek, with 2 people [teststation.Leaving]
+[main] INFO  - The car 29 arrived at 1933 sek, as 10 in the queue with 1 people [teststation.Arriving][2, 4, 6, 9, 12, 16, 25, 26, 27, 29]
+[main] INFO  - The car 30 arrived at 2043 sek, as 10 in the queue with 4 people [teststation.Arriving][2, 4, 9, 12, 16, 25, 26, 27, 29, 30]
+[main] INFO  - The car 4 is leaving test station at 1098 sek, with 3 people [teststation.Leaving]
+[main] INFO  - The car 31 with 2 people came and goes
+[main] INFO  - The car 16 came to test at 1151 sek with 1 people [teststation.Testing]
+[main] INFO  - The car 32 arrived at 2121 sek, as 10 in the queue with 3 people [teststation.Arriving][2, 9, 12, 16, 25, 26, 27, 29, 30, 32]
+[main] INFO  - The car 2 is leaving test station at 1203 sek, with 4 people [teststation.Leaving]
+[main] INFO  - The car 33 with 2 people came and goes
+[main] INFO  - The car 12 is leaving test station at 1361 sek, with 2 people [teststation.Leaving]
+[main] INFO  - The car 34 arrived at 2273 sek, as 10 in the queue with 2 people [teststation.Arriving][9, 12, 16, 25, 26, 27, 29, 30, 32, 34]
+[main] INFO  - The car 9 is leaving test station at 1384 sek, with 3 people [teststation.Leaving]
+[main] INFO  - The car 35 arrived at 2337 sek, as 10 in the queue with 3 people [teststation.Arriving][9, 16, 25, 26, 27, 29, 30, 32, 34, 35]
+[main] INFO  - The car 16 is leaving test station at 1391 sek, with 1 people [teststation.Leaving]
+[main] INFO  - The car 36 arrived at 2428 sek, as 10 in the queue with 2 people [teststation.Arriving][16, 25, 26, 27, 29, 30, 32, 34, 35, 36]
+[main] INFO  - The car 37 arrived at 2473 sek, as 10 in the queue with 2 people [teststation.Arriving][25, 26, 27, 29, 30, 32, 34, 35, 36, 37]
+[main] INFO  - The car 25 came to test at 1664 sek with 3 people [teststation.Testing]
+[main] INFO  - The car 38 with 3 people came and goes
+[main] INFO  - The car 39 with 4 people came and goes
+[main] INFO  - The car 40 with 3 people came and goes
+[main] INFO  - The car 26 came to test at 1783 sek with 1 people [teststation.Testing]
+[main] INFO  - The car 41 with 4 people came and goes
+[main] INFO  - The car 27 came to test at 1841 sek with 4 people [teststation.Testing]
+[main] INFO  - The car 42 with 1 people came and goes
+[main] INFO  - The car 43 with 3 people came and goes
+[main] INFO  - The car 26 is leaving test station at 2023 sek, with 1 people [teststation.Leaving]
+[main] INFO  - The car 44 with 3 people came and goes
+[main] INFO  - The car 29 came to test at 2038 sek with 1 people [teststation.Testing]
+[main] INFO  - The car 45 arrived at 3071 sek, as 10 in the queue with 1 people [teststation.Arriving][25, 27, 29, 30, 32, 34, 35, 36, 37, 45]
+[main] INFO  - The car 46 with 4 people came and goes
+[main] INFO  - The car 47 with 4 people came and goes
+[main] INFO  - The car 30 came to test at 2148 sek with 4 people [teststation.Testing]
+[main] INFO  - The car 48 with 3 people came and goes
+[main] INFO  - The car 32 came to test at 2226 sek with 3 people [teststation.Testing]
+[main] INFO  - The car 49 with 2 people came and goes
+[main] INFO  - The car 50 with 1 people came and goes
+[main] INFO  - The car 29 is leaving test station at 2278 sek, with 1 people [teststation.Leaving]
+[main] INFO  - The car 51 with 3 people came and goes
+[main] INFO  - The car 52 arrived at 3580 sek, as 10 in the queue with 4 people [teststation.Arriving][25, 27, 30, 32, 34, 35, 36, 37, 45, 52]
+[main] INFO  - The car 34 came to test at 2378 sek with 2 people [teststation.Testing]
+[main] INFO  - The car 53 with 1 people came and goes
+[main] INFO  - The car 25 is leaving test station at 2384 sek, with 3 people [teststation.Leaving]
+[main] INFO  - The car 54 with 4 people came and goes
+[main] INFO  - The car 55 arrived at 3829 sek, as 10 in the queue with 4 people [teststation.Arriving][27, 30, 32, 34, 35, 36, 37, 45, 52, 55]
+[main] INFO  - The car 35 came to test at 2442 sek with 3 people [teststation.Testing]
+[main] INFO  - The car 56 with 4 people came and goes
+[main] INFO  - The car 57 with 1 people came and goes
+[main] INFO  - The car 36 came to test at 2533 sek with 2 people [teststation.Testing]
+[main] INFO  - The car 58 with 1 people came and goes
+[main] INFO  - The car 37 came to test at 2578 sek with 2 people [teststation.Testing]
+[main] INFO  - The car 59 with 1 people came and goes
+[main] INFO  - The car 27 is leaving test station at 2801 sek, with 4 people [teststation.Leaving]
+[main] INFO  - The car 60 with 4 people came and goes
+[main] INFO  - The car 34 is leaving test station at 2858 sek, with 2 people [teststation.Leaving]
+[main] INFO  - The car 61 arrived at 4382 sek, as 10 in the queue with 4 people [teststation.Arriving][30, 32, 34, 35, 36, 37, 45, 52, 55, 61]
+[main] INFO  - The car 32 is leaving test station at 2946 sek, with 3 people [teststation.Leaving]
+[main] INFO  - The car 62 arrived at 4485 sek, as 10 in the queue with 2 people [teststation.Arriving][30, 32, 35, 36, 37, 45, 52, 55, 61, 62]
+[main] INFO  - The car 36 is leaving test station at 3013 sek, with 2 people [teststation.Leaving]
+[main] INFO  - The car 63 arrived at 4549 sek, as 10 in the queue with 4 people [teststation.Arriving][30, 35, 36, 37, 45, 52, 55, 61, 62, 63]
+[main] INFO  - The car 37 is leaving test station at 3058 sek, with 2 people [teststation.Leaving]
+[main] INFO  - The car 64 arrived at 4608 sek, as 10 in the queue with 4 people [teststation.Arriving][30, 35, 37, 45, 52, 55, 61, 62, 63, 64]
+[main] INFO  - The car 65 arrived at 4705 sek, as 10 in the queue with 4 people [teststation.Arriving][30, 35, 45, 52, 55, 61, 62, 63, 64, 65]
+[main] INFO  - The car 30 is leaving test station at 3108 sek, with 4 people [teststation.Leaving]
+[main] INFO  - The car 66 with 3 people came and goes
+[main] INFO  - The car 35 is leaving test station at 3162 sek, with 3 people [teststation.Leaving]
+[main] INFO  - The car 67 arrived at 4833 sek, as 10 in the queue with 2 people [teststation.Arriving][35, 45, 52, 55, 61, 62, 63, 64, 65, 67]
+[main] INFO  - The car 45 came to test at 3176 sek with 1 people [teststation.Testing]
+[main] INFO  - The car 68 arrived at 4928 sek, as 10 in the queue with 1 people [teststation.Arriving][45, 52, 55, 61, 62, 63, 64, 65, 67, 68]
+[main] INFO  - The car 45 is leaving test station at 3416 sek, with 1 people [teststation.Leaving]
+[main] INFO  - The car 69 with 4 people came and goes
+[main] INFO  - The car 70 arrived at 5078 sek, as 10 in the queue with 4 people [teststation.Arriving][52, 55, 61, 62, 63, 64, 65, 67, 68, 70]
+[main] INFO  - The car 52 came to test at 3685 sek with 4 people [teststation.Testing]
+[main] INFO  - The car 71 with 1 people came and goes
+[main] INFO  - The car 72 with 4 people came and goes
+[main] INFO  - The car 55 came to test at 3934 sek with 4 people [teststation.Testing]
+[main] INFO  - The car 73 with 3 people came and goes
+[main] INFO  - The car 74 with 3 people came and goes
+[main] INFO  - The car 75 with 2 people came and goes
+[main] INFO  - The car 61 came to test at 4487 sek with 4 people [teststation.Testing]
+[main] INFO  - The car 76 with 4 people came and goes
+[main] INFO  - The car 77 with 1 people came and goes
+[main] INFO  - The car 62 came to test at 4590 sek with 2 people [teststation.Testing]
+[main] INFO  - The car 78 with 4 people came and goes
+[main] INFO  - The car 79 with 4 people came and goes
+[main] INFO  - The car 52 is leaving test station at 4645 sek, with 4 people [teststation.Leaving]
+[main] INFO  - The car 80 with 4 people came and goes
+[main] INFO  - The car 63 came to test at 4654 sek with 4 people [teststation.Testing]
+[main] INFO  - The car 81 arrived at 5985 sek, as 10 in the queue with 1 people [teststation.Arriving][55, 61, 62, 63, 64, 65, 67, 68, 70, 81]
+[main] INFO  - The car 82 with 4 people came and goes
+[main] INFO  - The car 64 came to test at 4713 sek with 4 people [teststation.Testing]
+[main] INFO  - The car 83 with 4 people came and goes
+[main] INFO  - The car 65 came to test at 4810 sek with 4 people [teststation.Testing]
+[main] INFO  - The car 84 with 2 people came and goes
+[main] INFO  - The car 85 with 3 people came and goes
+[main] INFO  - The car 55 is leaving test station at 4894 sek, with 4 people [teststation.Leaving]
+[main] INFO  - The car 86 with 2 people came and goes
+[main] INFO  - The car 87 arrived at 6412 sek, as 10 in the queue with 3 people [teststation.Arriving][61, 62, 63, 64, 65, 67, 68, 70, 81, 87]
+[main] INFO  - The car 67 came to test at 4938 sek with 2 people [teststation.Testing]
+[main] INFO  - The car 88 with 1 people came and goes
+[main] INFO  - The car 68 came to test at 5033 sek with 1 people [teststation.Testing]
+[main] INFO  - The car 89 with 4 people came and goes
+[main] INFO  - The car 62 is leaving test station at 5070 sek, with 2 people [teststation.Leaving]
+[main] INFO  - The car 90 with 1 people came and goes
+[main] INFO  - The car 91 arrived at 6688 sek, as 10 in the queue with 3 people [teststation.Arriving][61, 63, 64, 65, 67, 68, 70, 81, 87, 91]
+[main] INFO  - The car 70 came to test at 5183 sek with 4 people [teststation.Testing]
+[main] INFO  - The car 92 with 4 people came and goes
+[main] INFO  - The car 68 is leaving test station at 5273 sek, with 1 people [teststation.Leaving]
+[main] INFO  - The car 93 with 1 people came and goes
+[main] INFO  - The car 67 is leaving test station at 5418 sek, with 2 people [teststation.Leaving]
+[main] INFO  - The car 94 arrived at 6828 sek, as 10 in the queue with 3 people [teststation.Arriving][61, 63, 64, 65, 67, 70, 81, 87, 91, 94]
+[main] INFO  - The car 61 is leaving test station at 5447 sek, with 4 people [teststation.Leaving]
+[main] INFO  - The car 95 arrived at 6938 sek, as 10 in the queue with 2 people [teststation.Arriving][61, 63, 64, 65, 70, 81, 87, 91, 94, 95]
+[main] INFO  - The car 63 is leaving test station at 5614 sek, with 4 people [teststation.Leaving]
+[main] INFO  - The car 96 arrived at 7017 sek, as 10 in the queue with 1 people [teststation.Arriving][63, 64, 65, 70, 81, 87, 91, 94, 95, 96]
+[main] INFO  - The car 64 is leaving test station at 5673 sek, with 4 people [teststation.Leaving]
+[main] INFO  - The car 97 arrived at 7102 sek, as 10 in the queue with 4 people [teststation.Arriving][64, 65, 70, 81, 87, 91, 94, 95, 96, 97]
+[main] INFO  - The car 65 is leaving test station at 5770 sek, with 4 people [teststation.Leaving]
+[main] INFO  - The car 81 came to test at 6090 sek with 1 people [teststation.Testing]
+[main] INFO  - The car 100 arrived at 7198 sek, as 9 in the queue with 3 people [teststation.Arriving][70, 81, 87, 91, 94, 95, 96, 97, 100]
+[main] INFO  - The car 70 is leaving test station at 6143 sek, with 4 people [teststation.Leaving]
+[main] INFO  - The car 81 is leaving test station at 6330 sek, with 1 people [teststation.Leaving]
+[main] INFO  - The car 87 came to test at 6517 sek with 3 people [teststation.Testing]
+[main] INFO  - The car 91 came to test at 6793 sek with 3 people [teststation.Testing]
+[main] INFO  - The car 94 came to test at 6933 sek with 3 people [teststation.Testing]
+[main] INFO  - The car 95 came to test at 7043 sek with 2 people [teststation.Testing]
+[main] INFO  - The car 96 came to test at 7122 sek with 1 people [teststation.Testing]
+[main] INFO  - The car 97 came to test at 7207 sek with 4 people [teststation.Testing]
+[main] INFO  - The car 87 is leaving test station at 7237 sek, with 3 people [teststation.Leaving]
+[main] INFO  - The car 100 came to test at 7303 sek with 3 people [teststation.Testing]
+[main] INFO  - The car 96 is leaving test station at 7362 sek, with 1 people [teststation.Leaving]
+[main] INFO  - The car 91 is leaving test station at 7513 sek, with 3 people [teststation.Leaving]
+[main] INFO  - The car 95 is leaving test station at 7523 sek, with 2 people [teststation.Leaving]
+[main] INFO  - The car 94 is leaving test station at 7653 sek, with 3 people [teststation.Leaving]
+[main] INFO  - The car 100 is leaving test station at 8023 sek, with 3 people [teststation.Leaving]
+[main] INFO  - The car 97 is leaving test station at 8167 sek, with 4 people [teststation.Leaving]
