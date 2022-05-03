@@ -3,7 +3,6 @@ package teststation;
 import org.apache.log4j.Logger;
 import org.apache.log4j.PropertyConfigurator;
 import java.util.Random;
-import java.util.Queue;
 
 
 public class Arriving extends Event {
@@ -14,6 +13,7 @@ public class Arriving extends Event {
     int seed = 1;
     Random generator = new Random(seed);
     @Override
+
     public Testing generateFutureEvent(int entryTimeStamp, int carID, int peopleInCar) {
 
         int newEventTimeStamp = entryTimeStamp + generator.nextInt(60,120);
@@ -27,7 +27,7 @@ public class Arriving extends Event {
 
         logger.info("The car "+ this.getCarID() + " arrived at " + this.getEntryTimeStamp() + " sek, as " +
                 eventList.carIDs.size() + " in the queue with " + this.getPeopleInCar() + " people " + "["+this.getClass().getName() + "]" +  eventList.carIDs);
-        //System.out.println("Arrived car "+ this.getCarID());
+
 
     }
 
